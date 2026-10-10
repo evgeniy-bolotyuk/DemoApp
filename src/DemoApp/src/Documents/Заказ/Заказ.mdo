@@ -222,6 +222,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="d4ff0829-a44b-4d43-81f3-c0de1ec5d7fe">
+    <name>P8D_Комментарий</name>
+    <synonym>
+      <key>ru</key>
+      <value>Комменткрий</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>256</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="eb4d6024-f5e8-48ce-87cc-51aa1d8bdc00">
     <name>ФормаДокумента</name>
     <synonym>

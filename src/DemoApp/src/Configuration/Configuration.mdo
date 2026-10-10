@@ -348,6 +348,7 @@
   <commonForms>CommonForm.ФормаПодбораМобильная</commonForms>
   <commonForms>CommonForm.Звонок</commonForms>
   <commonForms>CommonForm.ФормаВыбораПользователяСистемыВзаимодействия</commonForms>
+  <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.Регионы</catalogs>
   <catalogs>Catalog.Банки</catalogs>
   <catalogs>Catalog.Склады</catalogs>
@@ -359,7 +360,6 @@
   <catalogs>Catalog.МобильныеУстройства</catalogs>
   <catalogs>Catalog.НастройкиТорговогоОборудования</catalogs>
   <catalogs>Catalog.ХранимыеФайлы</catalogs>
-  <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.ПочтовыеВложения</catalogs>
   <catalogs>Catalog.РасчетныеСчета</catalogs>
   <catalogs>Catalog.РасчетныеСчетаКонтрагентов</catalogs>

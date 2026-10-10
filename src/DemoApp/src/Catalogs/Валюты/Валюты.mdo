@@ -127,6 +127,7 @@
   <quickChoice>true</quickChoice>
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.Валюты.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultListForm>Catalog.Валюты.Form.ФормаСписка</defaultListForm>
   <attributes uuid="4c8eec52-70df-4488-9517-8476b2d75189">
     <name>НаименованиеОсновнойВалюты</name>
     <synonym>
@@ -159,6 +160,15 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <forms uuid="3aeb973b-7f1f-480d-898b-550f1d7ad009">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
   <forms uuid="29c5cf86-5d9f-4bed-827f-78deba86fefe">
     <name>ФормаЭлемента</name>
     <synonym>
