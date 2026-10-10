@@ -126,6 +126,7 @@
   <editType>InDialog</editType>
   <quickChoice>true</quickChoice>
   <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.Банки.Form.ФормаЭлемента</defaultObjectForm>
   <attributes uuid="86705b0b-44fe-4a33-b4ca-e4feac07df5f">
     <name>БИК</name>
     <synonym>
@@ -251,4 +252,13 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <forms uuid="62d498ef-0a53-462c-bd7f-749974742123">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:Catalog>
